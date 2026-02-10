@@ -1,0 +1,14 @@
+# Core libraries
+numpy>=1.20
+matplotlib>=3.4
+vtk>=9.0
+
+# DICOM/Medical Imaging
+pydicom>=2.3
+pillow>=8.0
+
+# Data handling
+scipy>=1.7
+
+# Serial communication (ESP32)
+pyserial>=3.5
