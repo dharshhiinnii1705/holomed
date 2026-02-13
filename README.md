@@ -63,6 +63,8 @@ git push origin feature/your-feature-name
 
 ## Team Members
 - @dharshhiinnii1705
+- @Amirthavarshini006
+- @Gopigaa-2903
 
 ---
 For questions or issues, create an issue on GitHub!
