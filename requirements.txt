@@ -12,3 +12,7 @@ scipy>=1.7
 
 # Serial communication (ESP32)
 pyserial>=3.5
+
+# MQTT listener for networked gestures
+paho-mqtt>=1.6
+flask>=2.0
